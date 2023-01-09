@@ -110,9 +110,9 @@ author:
   location         : "South Korea"
   email            : "xoghkswjd@hanmail.net"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:xoghkswjd@hanmail.net"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:xoghkswjd@hanmail.net"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/@jeongtaehwan20"
